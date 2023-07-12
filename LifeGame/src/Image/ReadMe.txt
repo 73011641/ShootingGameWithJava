@@ -1,0 +1,1 @@
+Put game image you want in proper folder
