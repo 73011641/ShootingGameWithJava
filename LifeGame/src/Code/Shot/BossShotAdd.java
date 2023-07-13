@@ -12,10 +12,6 @@ import java.io.IOException;
 import javax.imageio.ImageIO;
 import shootingspaceship.Shot;
 
-/**
- *
- * @author USER
- */
 public class BossShotAdd extends Shot {
     public int delta_y;
     Image img = null;

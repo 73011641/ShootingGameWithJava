@@ -5,10 +5,6 @@ import shootingspaceship.*;
 import javax.swing.*;
 import java.util.ArrayList;
 
-/**
- *
- * @author 김애리
- */
 public class S1BossDuck extends Boss{
 
     public S1BossDuck(int x, int y, float delta_x, float delta_y, int max_x, int max_y, float delta_y_inc, Player aim) {

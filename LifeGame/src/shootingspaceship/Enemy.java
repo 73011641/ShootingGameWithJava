@@ -13,10 +13,6 @@ import java.util.Iterator;
 import java.util.List;
 import javax.swing.ImageIcon;
 
-/**
- *
- * @author wgpak
- */
 public class Enemy{
 
     public int state = 0;

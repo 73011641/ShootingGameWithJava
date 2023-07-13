@@ -6,10 +6,6 @@ import shootingspaceship.Enemy;
 import javax.swing.*;
 import java.util.ArrayList;
 
-/**
- *
- * @author 김애리
- */
 public class S3EnemyOmr extends Enemy { //Enemy상속
 
     public S3EnemyOmr(int x, int y, float delta_x, float delta_y, int max_x, int max_y, float delta_y_inc) {

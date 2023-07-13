@@ -12,10 +12,6 @@ import java.io.IOException;
 import javax.imageio.ImageIO;
 import shootingspaceship.Shot;
 
-/**
- *
- * @author 김애리
- */
 public class BossShotLaser extends Shot {
     Image img = null;
     String fileroad = "src/Image/Shot/Laser.png";
